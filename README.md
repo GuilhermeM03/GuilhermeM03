@@ -8,6 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-marcelino-75240a238)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeM03&show_icons=true&theme=tokyonight)
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeM03&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
 
 ## My Skills
 
